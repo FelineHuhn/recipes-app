@@ -22,11 +22,12 @@ const StyledHeader = styled.header`
 
 const StyledNavigation = styled.nav`
   display: flex;
-  gap: 2rem;
+  gap: 2 rem;
 `;
 
 const Anchor = styled.a`
   color: var(--text-secondary);
+  font-size: 1.5em;
 
   &:hover {
     cursor: pointer;

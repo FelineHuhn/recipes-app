@@ -2,11 +2,11 @@ import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
     :root {
-        --text-primary: #0c2c4d;
-        --text-secondary: #2585e6;
-        --text-light: #0c2c4d99;
+        --text-primary: #272f23;
+        --text-secondary: #272f23;
+        --text-light: #272f23;
         --white: #ffffff;
-        --background-light: #b3cfef;
+        --background-light: #c4cfbf;
     }
     @font-face {
         font-family: 'Noto Sans';
