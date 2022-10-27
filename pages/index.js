@@ -1,5 +1,3 @@
-import Head from "next/head";
-import Image from "next/image";
 import styled from "styled-components";
 
 export default function Home() {
@@ -20,9 +18,9 @@ export default function Home() {
 }
 
 const Title = styled.h1`
-  background-color: lightcoral;
+  color: var(--text-primary);
 `;
 
 const Description = styled.p`
-  background-color: lightgrey;
+  color: var(--text-primary);
 `;
