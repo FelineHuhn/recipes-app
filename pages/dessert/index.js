@@ -21,7 +21,7 @@ const DessertHeadline = styled.h1`
 `;
 
 const DessertTitle = styled.p`
-  color: hotpink;
+  color: #525989;
   font-weight: bold;
   font-size: 1.5em;
 `;

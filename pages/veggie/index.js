@@ -14,11 +14,10 @@ export default function Veggie() {
 
 const VeggieHeadline = styled.h1`
   font-size: 2.5em;
-  color: darkgreen;
 `;
 
 const VeggieTitle = styled.p`
-  color: black;
+  color: darkgreen;
   font-weight: bold;
   font-size: 1.5em;
 `;

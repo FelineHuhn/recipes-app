@@ -14,4 +14,5 @@ const StyledFooter = styled.footer`
   background-color: var(--background-light);
   padding: 0 1rem;
   height: 4rem;
+  font-size: 1.2em;
 `;
